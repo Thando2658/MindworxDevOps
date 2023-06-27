@@ -61,11 +61,11 @@
 <!-- Footer-->
 <footer class="py-4 bg-navy">
             <div class="container">
-              <p class="m-0 text-center text-white">Copyright &copy; <?php echo $_settings->info('short_name') ?> 2021</p>
-              <p class="m-0 text-center text-white">Developed By: <a href="mailto:oretnom23@gmail.com">oretnom23</a></p>
-              <p class="m-0 text-center text-white">Facebook</p>
-              <p class="m-0 text-center text-white">Instagram</p>
-              <p class="m-0 text-center text-white">Twitter</p>
+              <p class="m-0 text-center text-white">Copyright &copy; <?php echo $_settings->info('short_name') ?> 2023</p>
+              <p class="m-0 text-center text-white">Developed By: Mindworx</p>
+              <p class="m-0 text-center text-white"><i class="fa fa-facebook"></i> PulseTech</p>
+              <p class="m-0 text-center text-white"><i class="fa fa-instagram"></i> Pulse_Tech</p>
+              <p class="m-0 text-center text-white"><i class="fa fa-twitter"></i> @PulseTech</p>
           </div>
         </footer>
 
