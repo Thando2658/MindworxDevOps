@@ -23,11 +23,13 @@
     $sold = $sold->num_rows > 0 ? $sold->fetch_assoc()['sold'] : 0;
  }
 ?>
+<!-- Change background color from black to whiite-->
 <style>
+   
     #display-img{
         width:100%;
         height: 60vh;
-        background:#242424;
+        background:#ffffff;
     }
     #display-img>img{
         height:100%;
