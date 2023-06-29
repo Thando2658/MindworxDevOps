@@ -1,4 +1,4 @@
-<!--Updating Privacy Policy-->
+<!--Update Privacy Policy-->
 <?php
 if(!class_exists('DBConnection')){
 	require_once('../config.php');

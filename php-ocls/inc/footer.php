@@ -1,4 +1,4 @@
-<!--Trying to fix privacy policy-->
+<!--Trying to fix privacy.php-->
 <script>
   $(document).ready(function(){
     $('#p_use').click(function(){
