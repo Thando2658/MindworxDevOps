@@ -1,7 +1,8 @@
+<!--Trying to fix privacy policy-->
 <script>
   $(document).ready(function(){
     $('#p_use').click(function(){
-      uni_modal("Privacy Policy","policy.php","mid-large")
+      uni_modal("Privacy Policy","privacy.php","mid-large")
     })
      window.viewer_modal = function($src = ''){
       start_loader()
