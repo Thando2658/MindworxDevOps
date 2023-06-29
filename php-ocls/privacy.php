@@ -2,7 +2,7 @@
     <div class="container">
         <div class="card rounded-0">
             <div class="card-body">
-                <!--Added privacy policy page-->
+                <!--Attempting to add privacy policy page-->
                 <?php include "privacy_policy.html" ?>
             </div>
         </div>
