@@ -19,7 +19,8 @@
                         <li class="nav-item"><a class="nav-link text-white" aria-current="page" href="./">Home</a></li>
                         <li class="nav-item"><a class="nav-link text-white" href="./?p=view_categories">All Categories</a></li>
                         <li class="nav-item"><a class="nav-link text-white" href="./?p=about">About</a></li>
-                    </ul>
+                        <li class="nav-item"><a class="nav-link text-white" href="./?p=privacy_policy">Privacy</a></li>
+                      </ul>
                     <div class="d-flex align-items-center">
                       <?php if(!isset($_SESSION['userdata']['id'])): ?>
                         <button class="btn btn-primary ml-2" id="login-btn" type="button">Login</button>
